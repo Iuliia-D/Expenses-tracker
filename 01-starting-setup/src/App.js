@@ -25,6 +25,7 @@ const App = () => {
 
   return (
     <div>
+      <h2>Hello!</h2>
       <h2>Let's get started!</h2>
       <Expecnses items={expenses} />
     </div>
