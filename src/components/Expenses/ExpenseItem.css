@@ -36,6 +36,15 @@
   border-radius: 12px;
 }
 
+.expense-edit {
+  display: flex;
+  flex-direction: row;
+}
+/* .expense-edit__button {
+  width: 5px;
+  height: 5px;
+} */
+
 @media (min-width: 580px) {
   .expense-item__description {
     flex-direction: row;
